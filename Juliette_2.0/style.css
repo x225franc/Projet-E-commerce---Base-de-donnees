@@ -1,0 +1,209 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    text-align: center;
+}
+
+div{
+    box-sizing: border-box;
+    width: 100%;
+}
+#h{
+    min-height: 90px;
+    background-color: red;
+}
+#g{
+    min-height: 400px;
+} 
+#d{
+    min-height: 300px;
+    background-color: red ;
+}
+#b{
+    min-height: 150px;
+    background-color: rgba(90, 0, 0, 0.600);
+}
+tr{
+    text-align:center;
+}
+th{
+    width: 11%;
+    height:100%;
+}
+
+#d h1{
+    text-align: center;
+}
+#trtr td{
+    width: 25%;
+    text-align: center;
+}
+
+#h table tr th a{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    text-decoration: none;
+    color:red;
+}
+#b table tr td a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+#klxx:hover {
+    background: red;
+    color: white;
+}
+#klxxx:hover {
+    background: red;
+    color: white;
+}
+#klyy:hover {
+    background: red;
+    color: white;
+}
+#kly:hover {
+    background: red;
+    color: white;
+}
+#klyyy:hover {
+    background: red;
+    color: white;
+}
+#klzz:hover {
+    background: red;
+    color: white;
+}
+#klzo:hover {
+    background: red;
+    color: white;
+}
+
+#d ul {
+    display: table;
+    margin:  auto;
+}
+
+#h p{
+    text-align:center;
+    font-size:50px
+}
+
+#h th{
+    font-size:19px
+}
+
+#FA{
+    text-decoration: underline;
+    text-align:center;
+}
+
+#CA{
+    text-align:center;
+}
+
+#CB {
+    height: 200px;
+    width: 200px;
+    background-color: #555;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+#CC {
+    text-align:center;
+}
+
+#PA {
+    font-style: bold;
+    font-style: italic;
+}
+
+td{
+    width: 50%;
+}
+
+#slogan {
+    font-style: italic;
+    text-shadow: 1px 1px 1px #ffffff;
+}
+#klly{
+	width:100%;
+}
+#kloly th{
+	width: 14%;
+}
+#kloly th img{
+	width: 80%;
+	height: 160px;
+}
+
+.decouverte {
+    font-style: italic;
+    text-shadow: 1px 1px 1px #ffffff;
+}
+
+#px{
+	width:100%;
+}
+#pxx th{
+	width:1%;
+}
+#pxx th img{
+	width: 60%;
+	height: 160px;
+}
+.return{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color:red;
+    text-decoration: none;
+    color:white;
+}
+
+.panier{
+    width: 100%;
+    border: 2px;
+    height: 200px;
+}
+
+.prodpan{
+    height: 200px;
+    width: 100%;
+    border: 2px;
+}
+.prodpan td{
+    width: 50%;
+    text-align: center;
+    border: 2px;
+}
+.prodpan td img{
+    width : 50%;
+    padding: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    box-sizing: border-box;
+}
+.total{
+    height: 100px;
+
+}
+.total td{
+    width: 50%;
+    text-align: center;
+}
+.linkcmd{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color:red;
+    text-decoration: none;
+    color:white;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
